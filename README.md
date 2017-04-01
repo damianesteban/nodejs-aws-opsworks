@@ -1,15 +1,7 @@
-# Apress Source Code
+# AWS Opsworks node.js demo app
 
-This repository accompanies [*Beginning Amazon Web Services with Node.js*](http://www.apress.com/9781484206546) by Adam Shackelford and Adam Shackelford (Apress, 2015).
+This repository contains code from [*Beginning Amazon Web Services with Node.js*](http://www.apress.com/9781484206546) by Adam Shackelford and Adam Shackelford (Apress, 2015).
 
 ![Cover image](9781484206546.jpg)
 
-Download the files as a zip using the green button, or clone the repository to your machine using Git.
-
-## Releases
-
-Release v1.0 corresponds to the code in the published book, without corrections or updates.
-
-## Contributions
-
-See the file Contributing.md for more information on how you can contribute to this repository.
+This is a simple demo app for practice purposes.
