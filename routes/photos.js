@@ -22,6 +22,7 @@ router.get('/id/:id', function(req, res) {
 
 /* GET */
 router.get('/search', function(req, res) {
+	res.header('Cache-Control', 'no-cache, no-store');
 	if (req.param('query')) {
 		 var params = {
 			 query : req.param('query')
